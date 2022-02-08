@@ -3,7 +3,7 @@
 # db = MongoEngine()
 
 from tinydb import TinyDB, Query
-]
+
 db=TinyDB('app')
 
 # def initialize_db(app):
